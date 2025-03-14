@@ -1,1 +1,1 @@
-# VinayakAPI
+# VinayakApi
